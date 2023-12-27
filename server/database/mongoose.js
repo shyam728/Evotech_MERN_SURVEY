@@ -25,8 +25,5 @@ module.exports = mongoose.connetcion;
 
 
 
-// id ajayagrawal728
-// password y51gLBiA7QMkzKk6
 
-// MONGO_URL ='mongodb+srv://hasmuddin97175:X8mByhvnmc1USy77@cluster0.wwptqgh.mongodb.net/todo?retryWrites=true&w=majority'
 
