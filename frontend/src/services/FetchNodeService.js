@@ -2,7 +2,7 @@
 import axios from "axios"
 
 
-var serverURL='http://localhost:5000'
+var serverURL='https://backend-survey-hyw5.onrender.com/'
 
 const getData= async (url)=>{
 
