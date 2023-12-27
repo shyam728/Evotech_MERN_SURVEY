@@ -17,7 +17,7 @@ export const Home = () => {
 
  useEffect(function(){
    fetchAllServey()
- } ,[])
+ } )
 
 
   return (
