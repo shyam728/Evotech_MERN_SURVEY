@@ -7,7 +7,7 @@ var serverURL='https://backend-survey-hyw5.onrender.com/'
 const getData= async (url)=>{
 
     try{
-        alert(localStorage.getItem("TOKEN"))
+       
           let headers = {}
           if(localStorage.getItem("TOKEN")){
             headers = {headers:{Authorization:localStorage.getItem("TOKEN")}}
