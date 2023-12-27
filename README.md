@@ -3,8 +3,7 @@
 # MERN Stack Survey Form 
 
 This is a survey form submission app built using the MERN stack (MongoDB, Express, React, Node.js). 
-I Made this Project Using MUI Framework
-I am also using this Project Jwt 
+
 
 ## Screenshot<img width="943" alt="1" src="https://github.com/shyam728/Evotech_MERN_SURVEY/assets/116745835/8dc0f442-1f7c-4ebf-a528-a0e77e6e133d">
 <img width="799" alt="3" src="https://github.com/shyam728/Evotech_MERN_SURVEY/assets/116745835/a651d606-63fc-4289-bfab-c6a4c206b611">
@@ -30,6 +29,11 @@ I am also using this Project Jwt
 - Form input validation and anti-spam measures
 - Notifications for form submission status
 - Deployed online
+- I Made this Project Using MUI Framework
+- I am also using this Project Jwt
+- I created this project face many problem
+- I give my better for this project
+  
 
 ## Usage
 
@@ -75,6 +79,7 @@ The app is deployed on Vercal at https://evotech-mern-survey-4sg40b8t8-ajay-agra
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Please do not copy my code
 
 ## Acknowledgments
 
