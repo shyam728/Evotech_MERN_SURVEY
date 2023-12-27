@@ -1,15 +1,14 @@
 // Require the library
 const mongoose = require('mongoose');
 
-// Here we are using the MongoDB URL (i.e., MongoDB Atlas)
+// Use the MongoDB URI from the environment variable
 const db = "mongodb+srv://ajayagrawal728:y51gLBiA7QMkzKk6@cluster0.jy2j9h3.mongodb.net/evotech?retryWrites=true&w=majority";
-
 
 // Create an async function to handle the connection
 const connectToDatabase = async () => {
     try {
         await mongoose.connect(db, {
-         
+          
         });
         console.log('Successfully connected to the database');
     } catch (error) {
@@ -20,9 +19,8 @@ const connectToDatabase = async () => {
 // Call the async function to connect to the database
 connectToDatabase();
 
-
-module.exports = mongoose.connetcion;
-
+// Export the Mongoose connection
+module.exports = mongoose.connection;
 
 
 
