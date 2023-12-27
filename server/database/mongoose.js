@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 // Here we are using the MongoDB URL (i.e., MongoDB Atlas)
-const db = "mongodb+srv://ajayagrawal728:y51gLBiA7QMkzKk6@cluster0.jy2j9h3.mongodb.net/evotech?retryWrites=true&w=majority";
+const db = MONGOOSELINK
 
 // Create an async function to handle the connection
 const connectToDatabase = async () => {
