@@ -6,6 +6,20 @@ This is a survey form submission app built using the MERN stack (MongoDB, Expres
 I Made this Project Using MUI Framework
 I am also using this Project Jwt 
 
+## Screenshot<img width="943" alt="1" src="https://github.com/shyam728/Evotech_MERN_SURVEY/assets/116745835/8dc0f442-1f7c-4ebf-a528-a0e77e6e133d">
+<img width="799" alt="3" src="https://github.com/shyam728/Evotech_MERN_SURVEY/assets/116745835/a651d606-63fc-4289-bfab-c6a4c206b611">
+<img width="913" alt="4" src="https://github.com/shyam728/Evotech_MERN_SURVEY/assets/116745835/5d3c18b8-2978-413a-97b0-331354ac1f48">
+
+<img width="939" alt="5" src="https://github.com/shyam728/Evotech_MERN_SURVEY/assets/116745835/e5733c8c-f3e7-4655-b3bb-72352baee3d8">
+<img width="878" alt="6" src="https://github.com/shyam728/Evotech_MERN_SURVEY/assets/116745835/36d21322-471a-48a8-ad3d-3bb9d768bce7">
+
+<img width="779" alt="21" src="https://github.com/shyam728/Evotech_MERN_SURVEY/assets/116745835/1e7813ce-f45a-4a49-8180-e0259935149a">
+
+
+
+
+
+
 ## Features
 
 - Survey form with fields for name, gender, nationality, email, phone number, address, and message
@@ -49,7 +63,7 @@ npm run dev
 
 ### Deployment
 
-The app is deployed on Heroku at https://my-survey-app.herokuapp.com/
+The app is deployed on Vercal at https://evotech-mern-survey-4sg40b8t8-ajay-agrawals-projects.vercel.app/
 
 ## Built With
 
